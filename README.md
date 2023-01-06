@@ -1,10 +1,22 @@
 # Diffusion4MosaicSR
 Super Resolution Utilizing the Denoising Diffusion Probabilistic Models
-From this 
+From this [URL](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) ,We train new model for the task of demosaic the text  synthesized through this [tool]([clovaai/synthtiger: Official Implementation of SynthTIGER (Synthetic Text Image Generator), ICDAR 2021 (github.com)](https://github.com/clovaai/synthtiger))
 
-[URL]: https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement
+<div align="center">
 
+# SynthTIGER 🐯 : Synthetic Text Image Generator
 
+[![PyPI version](https://img.shields.io/pypi/v/synthtiger)](https://pypi.org/project/synthtiger/)
+[![CI](https://github.com/clovaai/synthtiger/actions/workflows/ci.yml/badge.svg)](https://github.com/clovaai/synthtiger/actions/workflows/ci.yml)
+[![Docs](https://github.com/clovaai/synthtiger/actions/workflows/docs.yml/badge.svg)](https://github.com/clovaai/synthtiger/actions/workflows/docs.yml)
+[![License](https://img.shields.io/github/license/clovaai/synthtiger)](LICENSE)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
+Synthetic Text Image Generator for OCR Model | [Paper](https://arxiv.org/abs/2107.09313) | [Documentation](https://clovaai.github.io/synthtiger/) | [Datasets](#datasets)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/12423224/153699080-29da7908-0662-4435-ba27-dd07c3bbb7f2.png"/>
 
 ## Usage
 ### Environment
