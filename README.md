@@ -2,7 +2,9 @@
 Super Resolution Utilizing the Denoising Diffusion Probabilistic Models
 From this [URL](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) ,We train new model for the task of demosaic the text  synthesized through this [tool](https://github.com/clovaai/synthtiger).
 
-## Experiments:Lots of experiments are provided in the folder:experiments/results including the Super Resoulution/Low Resolution/High Resolution(usually also GroundTruth)，the process of denoising and the comparations between different fonds,styles text given the model.
+## Experiments
+
+Lots of experiments are provided in the folder:experiments/results including the Super Resoulution/Low Resolution/High Resolution(usually also GroundTruth)，the process of denoising and the comparations between different fonds,styles text given the model.
 
 <div align="center">
 
